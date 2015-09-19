@@ -91,8 +91,8 @@ myDataRef.on('child_added', function(snapshot) {
     FB.api("/me?fields=id,name,events", function (response) {
         if (response && !response.error) {
           // console.log(response.events);
-          user.events = response.events;
-          myDataRef.push(user);
+          user.events = response.events.data;
+          myDataRef.child(response.id).set(user);
         }
       }
     );
