@@ -1,0 +1,738 @@
+{
+  "id": "10204746303555294",
+  "name": "Jimmy Wang",
+  "events": {
+    "data": [
+      {
+        "description": "http://www.yhack.org/
+
+November 6-8th, 2015. 36 Hours. 1500 Hackers.
+
+You can register today at yhack.org
+Registrations close on Sunday, September 20.
+
+The event is completely FREE! 
+Transportation to Yale University, food and amenities are provided for the weekend. This includes a weekend full of learning and fantastic opportunity to interact with big name companies like Microsoft.
+
+What is YHack?
+YHack is an international hackathon hosted by and held at Yale, bringing 1500 like-minded hackers and creatives from all over the world.
+
+YHack is a festival of innovation, an arena of tech warriors, and a stage to present your big idea. Jam packed into 36 hours is a rainbow of events (talks, food, rap battles) that go on through the night while caffeinated teams hack on a Python app or program arduino-driven pumpkins to battle over Twitch. 
+
+What is a hackathon?
+Hackathons are weekend-long events where students are encouraged to come with an idea and finish with a product. A more detailed explaination http://bit.ly/1t6gjdx. Don’t worry if you don’t have any programming experience, hackathons have workshops and mentors to help beginners get started.
+
+We're a collaboarative student tech community at McMaster University. We run tech social, workshops and we're open to people of all levels of experience in coding.
+
+Join the hackitmac group to stay updated with our events.
+https://www.facebook.com/groups/hackitmac/.
+Questions? Email us at hello@hackitmac.com",
+        "end_time": "2015-11-08T14:00:00-0500",
+        "name": "McMaster University takes on YHack@Yale University",
+        "place": {
+          "name": "Yale University",
+          "location": {
+            "city": "New Haven",
+            "country": "United States",
+            "latitude": 41.310096767913,
+            "longitude": -72.928422484258,
+            "state": "CT",
+            "zip": "06511"
+          },
+          "id": "374809010319"
+        },
+        "start_time": "2015-11-06T18:00:00-0500",
+        "id": "1681817025373730",
+        "rsvp_status": "attending"
+      },
+      {
+        "description": "IBM is coming to McMaster!
+
+Whether you are a technology student seeking a co-op/internship placement or a business student seeking new-graduate opportunities, we’re here to meet with you! This IBM Information Session is designed to give you a 30 minute overview of all of the emerging technologies we’re working on while also providing you with 60 minutes of networking so we can get to know each other better! We’ll have managers from a variety of different business units and student ambassadors in attendance to chat with you about what a day-in-the-life of an IBMer looks like while also giving you the opportunity to chat with campus recruiters about new-graduate and co-op/internship opportunities.
+
+We look forward to meeting you on Monday, October 19 at 5:30pm.
+
+Dress Code: Business Casual
+Where? Alumni Memorial Hall, Building #8
+
+Follow us on Twitter for updates @IBMCampusCanada #IBMonCampus
+
+Please note that registration is required to attend: https://www.oscarplusmcmaster.ca/home.htm",
+        "name": "IBM at McMaster University",
+        "place": {
+          "name": "McMaster University",
+          "location": {
+            "city": "Hamilton",
+            "country": "Canada",
+            "latitude": 43.262390510051,
+            "longitude": -79.918369124104,
+            "state": "ON",
+            "street": "1280 Main Street West",
+            "zip": "L8S 4L8"
+          },
+          "id": "193488666400"
+        },
+        "start_time": "2015-10-19T17:30:00-0400",
+        "id": "952635448127025",
+        "rsvp_status": "attending"
+      },
+      {
+        "description": "Party like it's December 31st, 1983
+https://www.cryptoparty.in/hamilton",
+        "end_time": "2015-09-24T21:00:00-0400",
+        "name": "McMaster Cryptoparty",
+        "place": {
+          "name": "Mohawk College - IAHS",
+          "location": {
+            "city": "Hamilton",
+            "country": "Canada",
+            "latitude": 43.259799620514,
+            "longitude": -79.920685032141,
+            "state": "ON"
+          },
+          "id": "156951284345084"
+        },
+        "start_time": "2015-09-24T18:00:00-0400",
+        "id": "515882901910217",
+        "rsvp_status": "attending"
+      },
+      {
+        "description": "http://hackthenorth.com
+
+Hack the North is coming up! It’s Canada’s largest hackathon  taking place at University of Waterloo, Sept 18-20, 2015. Free food, drinks & swag are provided along with a fantastic opportunity to interact with big name companies (Google, Facebook, Microsoft, Bloomberg, TD and more)
+
+You can register today at http://hackthenorth.com.
+Registrations close on Sunday, July 26th at Midnight EST!
+Check No for "Will you need travel reimbursements?"
+
+Hackathons are weekend-long events where students are encouraged to come with an idea and finish with a product. A more detailed explaination http://bit.ly/1t6gjdx. Don’t worry if you don’t have any programming experience, hackathons have workshops and mentors to help beginners get started.
+
+This hackathon will bring together 1,000 hackers to Waterloo, Ontario to build new projects and connect with industry leaders. Hack the North has already announced a stellar panel of judges including Alexis Ohanian, Cofounder of Reddit, and Danielle Strachman, Director of the Thiel Fellowship. On top of that they’ll be providing attendees with a wide array of mentors and hardware.
+
+HackItMac is trying to get a bus for McMaster. Whether or not we get a bus will depend on how many of you awesome people register. The bus will be free.
+
+We're a collaboarative student tech community at McMaster University. We run tech social, workshops and we're open to people of all levels of experience in coding.
+
+Join the hackitmac group to stay up to date with technology events.
+https://www.facebook.com/groups/hackitmac/.
+Questions? Email us at hello@hackitmac.com",
+        "end_time": "2015-09-20T13:00:00-0400",
+        "name": "McMaster University Takes on HackTheNorth",
+        "place": {
+          "name": "University of Waterloo",
+          "location": {
+            "city": "Waterloo",
+            "country": "Canada",
+            "latitude": 43.4689903,
+            "longitude": -80.5392303,
+            "state": "ON",
+            "street": "200 University Avenue West",
+            "zip": "N2L 3G1"
+          },
+          "id": "5802560757"
+        },
+        "start_time": "2015-09-18T18:00:00-0400",
+        "id": "1699348383633304",
+        "rsvp_status": "attending"
+      },
+      {
+        "description": "School is starting again and the McMaster Software Engineering Club would like to invite you to our first general meeting!
+
+Come to our meeting to socialize with software engineers in other years and meet the executive team of SEC. 
+At this meeting, we'll discuss our plans for this year and open positions in our team. We'd appreciate any input on what you expect to see from us in 2015-2016. Hope to see you all there!",
+        "name": "Initial Commit: SEC General Meeting",
+        "place": {
+          "name": "ITB A113"
+        },
+        "start_time": "2015-09-17T17:30:00-0400",
+        "id": "1662246367329144",
+        "rsvp_status": "attending"
+      },
+      {
+        "description": "Dear friends,
+
+After a joyful, emotional, and teary proposal, Ari has whole-heartedly said yes to her best friend, Dave. Their story is proof that a massive online community can truly connect strangers, and breed true love. 
+
+I am overjoyed to invite you and your loved ones to Dave & Ari's wedding reception, which will be held at The Big House on September 19th, 2015.
+
+Because of Dave, Ari's life has not only changed once, because of Hackathon Hackers, but twice, after she found herself falling for the man himself. Little did she know, he fell for her too ;) perhaps even TWICE as hard. According to Dave, what started off as just a joke has now become the most amazing reality of his life.
+
+I am so excited for their future together - I can't even begin to imagine the greatness these two will achieve ♥
+
+Dress like you're attending a wedding, but wear shoes that you can dance the night away with. The aisle *will* turn into a dance platform ;)
+
+XOXO,
+Evadora Z
+(Ari's bridesmaid)",
+        "name": "Dave & Ari Are Getting Married",
+        "place": {
+          "name": "The Big House. Michigan Stadium. Go Blue!",
+          "location": {
+            "city": "Ann Arbor",
+            "country": "United States",
+            "latitude": 42.266001234219,
+            "longitude": -83.746588785149,
+            "state": "MI",
+            "street": "E Stadium Blvd",
+            "zip": "48104"
+          },
+          "id": "233181853414631"
+        },
+        "start_time": "2015-09-13",
+        "id": "1647037232184917",
+        "rsvp_status": "attending"
+      },
+      {
+        "description": "When tackling iOS for the first time, there is a breadth of new information to learn. From new frameworks and IDEs to an even newer language, we’ve definitely got our bases loaded. By learning how to program games in Swift, you will gain an understanding of fundamental techniques to building basic interactions in iOS.",
+        "end_time": "2015-09-12T03:00:00-0400",
+        "name": "Intro to iOS",
+        "place": {
+          "name": "1690 Beyster"
+        },
+        "start_time": "2015-09-12T01:30:00-0400",
+        "id": "1009293239104624",
+        "rsvp_status": "attending"
+      },
+      {
+        "description": "Need some help looking for teammates? Want a well-structured way to quickly find the perfect match? Then come on by to the Team Formation Speed Dating session, where you will quickly and efficiently meet new people and then decide on who you want as a teammate!",
+        "end_time": "2015-09-12T01:00:00-0400",
+        "name": "Team Formation Speed Dating",
+        "place": {
+          "name": "1571 GG Brown"
+        },
+        "start_time": "2015-09-12T00:00:00-0400",
+        "id": "496099733897170",
+        "rsvp_status": "attending"
+      },
+      {
+        "description": "Looking for teammates? Want to meet other individuals? Then come on by to the Team Formation Mixer to meet new people in a relaxed environment!",
+        "end_time": "2015-09-11T20:30:00-0400",
+        "name": "Team Formation Mixer",
+        "place": {
+          "name": "1571 GG Brown"
+        },
+        "start_time": "2015-09-11T19:00:00-0400",
+        "id": "486259024887564",
+        "rsvp_status": "attending"
+      },
+      {
+        "description": "MHacks is back, better than ever. Will you be?
+
+Come join us September 11th-13th for an incredible weekend at the University of Michigan!
+
+Apply now at mhacks.org",
+        "end_time": "2015-09-13T12:00:00-0400",
+        "name": "MHacks 6",
+        "place": {
+          "name": "University of Michigan - Ann Arbor (North Campus)",
+          "location": {
+            "city": "Ann Arbor",
+            "country": "United States",
+            "latitude": 42.291271650781,
+            "longitude": -83.715949223703,
+            "state": "MI",
+            "zip": "48109"
+          },
+          "id": "145742675455003"
+        },
+        "start_time": "2015-09-11T18:00:00-0400",
+        "id": "974859215900289",
+        "rsvp_status": "attending"
+      },
+      {
+        "description": "We're coming to MHacks! 
+
+We're KPCB, a Silicon Valley-based venture capital firm. We've invested and helped build companies like Google, Twitter, Amazon, Genentech, Nest, Electronic Arts, Square and many others. Stop by our table and talk to us about:
+
+1) The KPCB Fellows Program: http://kpcbfellows.com/
+We're traveling to hackathons across the U.S. to tell people about the KPCB Fellows Program, our initiative to match the brightest students from across the country with one-of-a-kind work experiences at companies in our portfolio companies like Uber, Square, Indiegogo, Flipboard, BetterWorks, Airware and many others. Applications open in October! A couple of our fellows will also be around to tell you about their experiences:
+
+Hallie Lomax, 2015 KPCB Engineering Fellow at Opower
+Lawrence Yong, 2015 KPCB Design Fellow at BetterWorks
+      Come by our table Saturday between 1-3pm
+
+2) #BuildforGood: http://kpcbfellows.com/build-for-good/challenges
+We started an initiative to get people excited about building hacks and products for good. We partnered with incredible nonprofits like Product (RED), Ideo.org, Kiva, Internet.org and many others to offer technical challenges to hackers at collegiate hackathons. We'll also be awarding an interview for the 2016 KPCB Fellows Program to the best #BuildforGood hack!
+
+3) KPCB Companies: http://kpcbfellows.com/companies
+We have some pretty great companies in our family. And we're happy to tell you about them and why we think they are so great. 
+
+4) We'll also have cheese and crackers if you need a break as well as candy, stickers, and t-shirts. Come hang out with us this weekend! #cheeseplate",
+        "end_time": "2015-09-13T20:00:00-0400",
+        "name": "KPCB @ MHacks",
+        "place": {
+          "name": "University of Michigan",
+          "location": {
+            "city": "Ann Arbor",
+            "country": "United States",
+            "latitude": 42.270498353907,
+            "longitude": -83.740572310493,
+            "state": "MI",
+            "zip": "48109"
+          },
+          "id": "21105780752"
+        },
+        "start_time": "2015-09-11T17:00:00-0400",
+        "id": "1151576671538457",
+        "rsvp_status": "attending"
+      },
+      {
+        "description": "***Please note pressing "going" to this event doesn't mean you're registered in the hackathon. This event is ONLY for the organization of McMaster busses, but you still need to register at for the hackathon itself at mhacks.org***
+
+
+MHacks is BACK! This September 11-13th 2015, University of Michigan is throwing one of the BEST technology hackathons. EVER.  Its FREE, it's FUN and there’s going to be all the best tech toys for us to get our hands dirty with. If your fingers have been itching to code as much as ours on HackItMac then lucky for you, registration is OPEN!
+
+   Get together with other totally awesome individuals like yourself while modding and hacking to solve existing problems. There’s free sponsor-led talks to get you started, AND free food, AND swag. Yes. FREE. SWAG. The lineup of sponsors is already full of huge industry leaders such as Apple, Facebook, UBER, Wolfram and many more!
+
+   MHacks welcomes individuals of all skill levels to take this opportunity to learn and grow. If you have a team, tha'ts awesome! If you don't, that's pretty rad also! MHacks will connect fellow hackers on a database prior to the hackathon and you can then form the perfect squad! #squadgoals 
+
+
+   Be a part of the McMaster army as we take on MHacks 6 this September!
+When we have enough participants, us at HackItMac will give you more information on busses and transportation! Tweet it, Facebook it, Instagram it, let’s get Mac to MHacks 6!!
+
+   Register now at http://mhacks.org/
+
+   Dream Big, Hack Bigger.
+
+
+   Join the hackitmac group, if you haven't https://www.facebook.com/groups/hackitmac
+.
+   Questions? Email us at hello@hackitmac.com
+
+   Visit  http://bit.ly/1t6gjdx for more information on Hackacthons.",
+        "name": "McMaster University takes on MHacks 6!",
+        "place": {
+          "name": "University of Michigan",
+          "location": {
+            "city": "Ann Arbor",
+            "country": "United States",
+            "latitude": 42.270498353907,
+            "longitude": -83.740572310493,
+            "state": "MI",
+            "zip": "48109"
+          },
+          "id": "21105780752"
+        },
+        "start_time": "2015-09-11",
+        "id": "658009680996703",
+        "rsvp_status": "attending"
+      },
+      {
+        "description": "Find us at Table 103 at Clubfest.
+We are right near the east entrance of the student center.
+
+Hackitmac is a collaborative student tech community on campus. We host workshops, tech socials, and provide a place for anyone interested in technology.
+
+We also host/participate in hackathons. Hackathons are tech-marathons where students team up and create awesome projects to solve real world problems over the course of a weekend; using software and hardware. To give you an idea, we have buses going to Michigan, Harvard, Waterloo to compete in 3 hackathons this fall semester alone! Hackathons are completely free (food, drinks for the entire week covered). HackItMac teams up with schools to offer free buses from McMaster to most of the hackathons, so you’re hacking for free! 
+
+We also host our very own annual hackathon, DeltaHacks, at McMaster University. This is last years video of it: j.mp/dhacks14
+
+What's the benefit? Hackathons are the perfect opportunity to learn and develop new skills, as well as interact with top companies in the industry today (such as Facebook, Morgan Stanley, Google, and Microsoft, to name a few). Don’t worry if you are just starting out, because we do organize workshops throughout the year; not to mention hackathons always have mentors and workshops to help you get started. Students of all levels are welcome and encouraged.
+
+Sign for our mailing list: http://eepurl.com/2w-8X
+Join our facebook group: fb.com/groups/hackitmac",
+        "end_time": "2015-09-09T14:00:00-0400",
+        "name": "Hackitmac@CLUBFEST 2015",
+        "place": {
+          "name": "McMaster University Student Centre",
+          "location": {
+            "city": "Hamilton",
+            "country": "Canada",
+            "latitude": 43.263394593886,
+            "longitude": -79.917491469465,
+            "state": "ON",
+            "street": "1280 Main St. West",
+            "zip": "L8S 4S4"
+          },
+          "id": "149814921755859"
+        },
+        "start_time": "2015-09-09T09:30:00-0400",
+        "id": "712232538882949",
+        "rsvp_status": "attending"
+      },
+      {
+        "description": "BE THERE OR BE HUNGRY
+
+Join us on Sunday July 12 and dig in to some delicious food! Now in its fourth mouth-watering year, TO Food Fest brings together the best chefs and up-and-comers to share their unique food creations.
+
+Interested in becoming a vendor? Head over to 
+http://tofoodfest.com/index.php/vendors/ for more information! 
+
+Follow T.O. Food Fest to find out which delicious vendors will be at this year's TO Food Fest. More details to come as the event date draws closer!
+
+There is no admission fee this year but a suggested donation of $2, or bring a non-perishable food item for donation to Second Harvest.
+
+Check out instagram.com/tofoodfest for delicious food shots from previous years, or keep up to date with us at twitter.com/tofoodfest",
+        "name": "T.O. FOOD FEST 2015",
+        "place": {
+          "name": "Toronto Food Fest",
+          "location": {
+            "city": "Toronto",
+            "country": "Canada",
+            "latitude": 43.7946701,
+            "longitude": -79.2334518,
+            "state": "ON",
+            "street": "5183 Sheppard Avenue East"
+          },
+          "id": "253371061407805"
+        },
+        "start_time": "2015-07-12",
+        "id": "451177868393613",
+        "rsvp_status": "attending"
+      },
+      {
+        "description": "I'm pretty sure she knows there is a party, but I want us to do our best to make it a surprise. So come eat, celebrate, and mingle. BYOB PLEASE!!!  Let me know if you want to bring anyone else/ I forgot ppl so I can have a proper head count
+
+I have extra beds for ppl who need to stay the night
+
+light food and drinks provided! :)",
+        "end_time": "2015-06-08T12:00:00-0400",
+        "name": "A birthday party for jade",
+        "place": {
+          "name": "84 belinda square"
+        },
+        "start_time": "2015-06-07T20:00:00-0400",
+        "id": "1856540481238768",
+        "rsvp_status": "unsure"
+      },
+      {
+        "description": "FREE ADMISSION
+
+Making its debut in Toronto from June 5-7, it's every food lover’s dream come true! METRO presents the Mac 'n Cheese Festival partnered with Foodshare Toronto, Liberty Market, FLOW 93.5FM and On Your Mark Media to bring the ultimate Canadian comfort food everyone knows and loves to center stage.
+
+We round up chefs, savvy cooks, and food entrepreneurs from across the city in an attempt to reinvent the classic comfort dish, and compete to win the hearts, taste buds and bellies of all attending. Who will reign as Mac and Cheese Master Supreme? You decide!
+
+Teams will push the boundaries of culinary creativity to compete for three awarding titles, "Best of Fest", "Most Unique" and "People's Choice" awards. The winner of the People's Choice Award will also win the $5,000 cash prize!
+
+Taking place outdoors at Liberty Market, 171 East Liberty Street, Toronto, in the vibrant community of Liberty Village, festival goers will have 3 days to partake in all the festival has to offer. 
+
+Besides the mac and cheese vendors, there will be beer, wine, street performers and live bands/DJ's on stage. It is completely FREE to attend so mark your calendars now!
+
+June 5th - 6:00 pm - 10:00 pm
+June 6th - 11:00 am - 11:00 pm
+June 7th - 12:00 pm - 4:00 pm
+
+Join this event and make your attendance OFFICIAL. By joining, you'll be an Official Cheese Head of #Toronto. Got questions? Want more info? Make them known here! We'll do our best to answer them as quickly as we can.
+
+HOW IT WORKS:
+
+Attendees can purchase tokens (CASH ONLY) at the festival to taste the various gourmet mac and cheese dishes created by our challengers.
+
+$10 for 8 tokens
+$15 for 13 tokens
+$20 for 20 tokens
+
+FOOD PRICING:
+
+Prices for mac and cheese dishes range from 1 token to 8 tokens depending on the size and ingredients used by our food challengers.
+
+PETS:
+
+We love our furry friends but we ask that you kindly leave them at home if possible.
+
+CURRENT LIST OF COMPETITORS:
+
+- Art of Food
+- Big E's Hawaiian Grinds
+- Bombay Street Food
+- Brazen Head Irish Pub
+- Burrito Burrito
+- Cardinal Rule
+- Cheesewerks
+- Grub Toronto
+- H Bar
+- Junked Food Co.
+- Local Public Eatery
+- Made in Brazil Food Truck
+- Merci Mon Ami
+- Merenda Kitchen
+- NONA Vegan Foods
+- Oats & Ivy
+- Penthouse Catering
+- SOCO Kitchen + Bar
+- The 420 Smokehouse
+- The Holy Grill Food Truck
+- Thompson Diner
+- Vespa Pizzeria
+- Williams Landing
+
+SOCIAL MEDIA:
+
+Facebook: www.facebook.com/macandcheesefestival
+Twitter: www.twitter.com/macncheesefst
+Instagram: www.instagram.com/macandcheesefestival 
+Official Hashtag: #MACFEST15
+
+WEBSITE:
+
+www.macandcheesefestival.ca
+
+CONTACT:
+
+info@macandcheesefestival.ca",
+        "end_time": "2015-06-07T16:00:00-0400",
+        "name": "Mac & Cheese Festival 2015",
+        "place": {
+          "name": "Liberty Market Building",
+          "location": {
+            "city": "Toronto",
+            "country": "Canada",
+            "latitude": 43.6383209,
+            "longitude": -79.4177628,
+            "state": "ON",
+            "street": "171 East Liberty St",
+            "zip": "m6k3p6"
+          },
+          "id": "156312394393008"
+        },
+        "start_time": "2015-06-05T18:00:00-0400",
+        "id": "1561960637402956",
+        "rsvp_status": "attending"
+      },
+      {
+        "description": "Order tickets via Eventbrite:
+http://www.eventbrite.com/e/spectrum-summer-startup-tickets-16837428201?aff=efbevent
+
+Create a company in 36 Hours!
+ 
+
+Collaborate with others, meet mentors, and work on your startup and see what you can do in only one weekend!
+ 
+
+Prizes will be awarded for Innovation, Startup Potential, and more!
+ 
+
+Check out the Agenda for more info",
+        "end_time": "2015-05-31T16:00:00-0400",
+        "name": "Spectrum Summer Startup",
+        "place": {
+          "name": "McMaster University Student Centre, 1280 Main St W, Hamilton, CA"
+        },
+        "start_time": "2015-05-29T18:00:00-0400",
+        "id": "812392595476586",
+        "rsvp_status": "attending"
+      },
+      {
+        "description": "Doors Open Toronto presented by Great Gulf returns the weekend of May 23 & 24, offering free and rare access to more than 155 Toronto buildings! 
+
+In honour of this summer's Toronto 2015 Pan American/Parapan American Games, this year's theme – Sports, Recreation and Leisure – features private and public recreational sites ranging from aquatic centres to athletics stadiums.
+
+To plan your Doors Open Toronto weekend, visit www.toronto.ca/doorsopen for information on free special programming, exhibits, walking tours, and talks that can be experienced during the event.
+
+Don't forget to RSVP, post on our wall and upload photos and videos to our page. See you at #DOT15!",
+        "end_time": "2015-05-24T17:00:00-0400",
+        "name": "Doors Open Toronto 2015",
+        "place": {
+          "name": "Toronto, Ontario"
+        },
+        "start_time": "2015-05-23T10:00:00-0400",
+        "id": "459455680884482",
+        "rsvp_status": "attending"
+      },
+      {
+        "description": "ONLINE VOTING EVENT: AKA YOU DUN NEED TO GO ANYWHERE
+Hello everyone~ I've recently joined the A1 model search competition as a finalist and would really appreciate your support to win the <People's Award>! All you gotta do is press the GOING!
+I KNOW YOU WANT TO, JUST PRESS IT, COMMMON
+You all are amazeballs ʕ♡˙ᴥ˙♡ʔ
+I would really appreciate it if you could share this with your friends as well *-*",
+        "name": "Arrika's A1 Model Search Party~",
+        "place": {
+          "name": "Everywhere and Anywhere"
+        },
+        "start_time": "2015-05-23",
+        "id": "803234156427010",
+        "rsvp_status": "attending"
+      },
+      {
+        "description": "Have a great idea in mind but not sure how to start a company? Come to ICUE2015!
+Want to meet potential co-founders to launch your own startup?
+Going into fourth year, but not sure what you want to do for project?
+
+ICUE2015 is the event that you are looking for!
+
+IEEE University of Toronto Student Branch is pleased to announce the annual International Conference for Upcoming Engineers (ICUE) 2015. With Keynotes, panels, and workshop providing you all the information you need to know to launch a start up! 
+
+For more information, visit: ieee.toronto.edu/icue2015
+Or sign up here: https://icue2015.eventbrite.ca
+
+The $10 admission fee will be refunded upon check in. 
+Spots are limited, so get your ticket ASAP!",
+        "name": "International Conference for Upcoming Engineers (ICUE) 2015",
+        "place": {
+          "name": "Bahen Centre For Information Technology - University of Toronto",
+          "location": {
+            "city": "Toronto",
+            "country": "Canada",
+            "latitude": 43.6597099,
+            "longitude": -79.39711,
+            "state": "ON",
+            "street": "40 St. George St.",
+            "zip": "M5S 2E4"
+          },
+          "id": "130676206981651"
+        },
+        "start_time": "2015-05-09T09:00:00-0400",
+        "id": "1555197038080849",
+        "rsvp_status": "unsure"
+      },
+      {
+        "description": "1st stop of the WearHacks 2015 World Tour....TORONTO!! 
+
+Hackers, makers, get ready to hack on the coolest devices, learn, have fun, and see and build mind-blowing IoT (Internet of Things) projects!!
+
+Get Ready For The WearHacks Experience!!
+>REGISTER HERE: https://wearhackstoronto.splashthat.com/",
+        "end_time": "2015-05-10T18:00:00-0400",
+        "name": "WearHacks Toronto: WearableTech & IoT Hackathon",
+        "place": {
+          "name": "MaRS Discovery District",
+          "location": {
+            "city": "Toronto",
+            "country": "Canada",
+            "latitude": 43.6598015,
+            "longitude": -79.3887482,
+            "state": "ON",
+            "street": "101 College St., Suite 100",
+            "zip": "M5G 1L7"
+          },
+          "id": "14410062131"
+        },
+        "start_time": "2015-05-08T18:00:00-0400",
+        "id": "726580084117392",
+        "rsvp_status": "attending"
+      },
+      {
+        "description": "100th GradEx Schedule:
+Opening Night: Wednesday, April 29, 6:30 p.m. to 11 p.m.
+Thursday, April 30, 9:30 a.m. to 5 p.m.
+Friday, May 1, 9:30 a.m. to 8 p.m.
+Saturday, May 2, 11 a.m. to 5 p.m.
+Sunday, May 3, 11 a.m. to 5 p.m.
+
+More than 900 promising young artists and designers are exhibiting at the biggest GradEx ever -- OCAD University's 100th! This year GradEx expands to a five-day, six-storey exhibition, including the iconic Sharp Centre for Design. The university will throw open its doors, inviting the community to see works by the creative minds of OCAD U’s Class of 2015.
+
+Students from undergraduate and graduate programs will show their final thesis work to an audience of more than 25,000 guests, some of whom attend the show to recruit new talent for their own galleries and firms.
+
+Undergraduate programs represented in this year's GradEx are: Criticism and Curatorial Practice, Drawing & Painting, Integrated Media, Digital Painting and Expanded Animation, Photography, Printmaking, Sculpture/Installation and the specialization Cross-Disciplinary Art: Publications in the Faculty of Art; Advertising, Environmental Design, Graphic Design, Illustration, Industrial Design and Material Art & Design (jewellery, fibre and ceramics) in the Faculty of Design. The Faculty of Liberal Arts & Sciences and School of Interdisciplinary Studies will present work from the Digital Futures and Indigenous Visual Culture programs.
+
+OCAD U's graduate programs are: Contemporary Art, Design and New Media Art Histories, Criticism & Curatorial Practice, Digital Futures, Inclusive Design, Interdisciplinary Master's in Art, Media and Design, Strategic Foresight and Innovation.
+
+Feature sales provide the opportunity to purchase work from emerging artists at reasonable prices (details TBA).
+
+100th GradEx Schedule:
+Opening Night: Wednesday, April 29, 6:30 p.m. to 11 p.m.
+Thursday, April 30, 9:30 a.m. to 5 p.m.
+Friday, May 1, 9:30 a.m. to 8 p.m.
+Saturday, May 2, 11 a.m. to 5 p.m.
+Sunday, May 3, 11 a.m. to 5 p.m.
+
+TTC Directions: Get off at St. Patrick Subway Station and walk west on Dundas to McCaul (south of Dundas).
+
+Presenting Sponsor:
+Mercedes-Benz Financial Services
+
+www.ocadu.ca/gradex
+
+416-977-6000 or communications@ocadu.ca
+
+OCAD University’s annual Graduate Exhibition is generously supported by Presenting Sponsor Mercedes-Benz Financial Services. Other sponsors include: Delaney Capital Management, First Capital Realty, Borden Ladner Gervais LLP, CP24 (Media Sponsor), NOW (Media Sponsor) and Steam Whistle (Event Sponsor).
+
+This event has been financially assisted by the Ontario Cultural Attractions Fund, a program of the Government of Ontario through the Ministry of Tourism, Culture and Sport, administered by the Ontario Cultural Attractions Fund Corporation.",
+        "end_time": "2015-05-03T17:00:00-0400",
+        "name": "GradEx 100: OCAD University's annual Graduate Exhibition",
+        "place": {
+          "name": "OCAD University",
+          "location": {
+            "city": "Toronto",
+            "country": "Canada",
+            "latitude": 43.6529999,
+            "longitude": -79.3911667,
+            "state": "ON",
+            "street": "100 McCaul Street",
+            "zip": "M5T 1W1"
+          },
+          "id": "134851139863553"
+        },
+        "start_time": "2015-04-29T18:30:00-0400",
+        "id": "780665272008138",
+        "rsvp_status": "attending"
+      },
+      {
+        "description": "Continuation from last Monday.
+
+If you missed the previous Monday session and you're still interested in joining the Relations Team (deltaHacks).
+
+It is your responsibility to catch up on the material, message Alyssia Jovellanos to know what you missed
+
+We will be selecting candidates for the Relations Team (deltaHacks) through this session.
+
+Even If you are not selected, we will also be recruiting in Fall so definitely come out.",
+        "end_time": "2015-04-08T19:30:00-0400",
+        "name": "Recruiting for Relations Meeting 2nd",
+        "place": {
+          "name": "IAHS RM 201"
+        },
+        "start_time": "2015-04-08T18:30:00-0400",
+        "id": "943051582394584",
+        "rsvp_status": "attending"
+      },
+      {
+        "description": "To celebrate the end of class, the McMaster University Alumni Association, the Student Success Centre and the McMaster Students Union have partnered to create a truly awesome experience. We will Light Up the Night with thousands of bulbs strung between campus buildings, culminating with a fireworks show shortly after 10 PM.
+
+The inaugural year-end block party will feature carnivalesque rides, games and food.  Ride the Gravitron, have fun with friends in the bumper cars, or take in the view from the ferris wheel. Stroll the street playing the midway games and enjoy traditional festival food. In addition, Light Up the Night will boast two DJ booths and a main stage.  Special guests USS will take the main stage after 9 PM.
+
+This is a free event, all students & alumni are welcome and parking is provided!
+
+If you're looking to perform at the coffee house - email corsons@mcmaster.ca :)
+
+WEBSITE FOR MORE INFO: http://macblockparty.ca/",
+        "end_time": "2015-04-08T23:00:00-0400",
+        "name": "Mac Block Party",
+        "place": {
+          "name": "McMaster University",
+          "location": {
+            "city": "Hamilton",
+            "country": "Canada",
+            "latitude": 43.262390510051,
+            "longitude": -79.918369124104,
+            "state": "ON",
+            "street": "1280 Main Street West",
+            "zip": "L8S 4L8"
+          },
+          "id": "193488666400"
+        },
+        "start_time": "2015-04-08T18:00:00-0400",
+        "id": "1597958503824307",
+        "rsvp_status": "attending"
+      },
+      {
+        "description": "CSS Pizza Destressor! $10 (Cash Only) for all you can eat pizza!
+We will be selling T-Shirts.",
+        "end_time": "2015-04-07T22:00:00-0400",
+        "name": "Boston Pizza Destressor",
+        "place": {
+          "name": "McMaster Computer Science Society",
+          "location": {
+            "city": "Hamilton",
+            "country": "Canada",
+            "latitude": 43.25793,
+            "longitude": -79.91949,
+            "state": "ON",
+            "street": "1280 Main St W"
+          },
+          "id": "194840543916073"
+        },
+        "start_time": "2015-04-07T19:00:00-0400",
+        "id": "1564494737139309",
+        "rsvp_status": "attending"
+      }
+    ],
+    "paging": {
+      "cursors": {
+        "before": "TVRZANE1UZA3hOekF5TlRNM016Y3pNRG94TkRRMk9EVXdPREF3T2pFMk5UQTRORGc1TmpnME9EVTRNUT09",
+        "after": "TVRVMk5EUTVORGN6TnpFek9UTXdPVG94TkRJNE5EUTNOakF3T2pFMk5UQTRORGc1TmpnME9EVTRNUT09"
+      },
+      "next": "https://graph.facebook.com/v2.4/10204746303555294/events?access_token=CAACEdEose0cBAEy6hZCRIR4ZABBPZCIGaM36AWBS6BwOvOCoxPQGJMl1JIRvsh9jybXDMdznD4jugb6de1XUDrJDV9BhctkdfXRnKYC4tOJlWzXFGnkoPMenwRK8XjtmOwV4G3i0yJzAWX8SEWxEbBHrcjZB2T5cTBURZATZABDZB2XaLqy3VFuHlgZBUeMTEm5az8ZAjvoqzHAZDZD&pretty=0&limit=25&after=TVRVMk5EUTVORGN6TnpFek9UTXdPVG94TkRJNE5EUTNOakF3T2pFMk5UQTRORGc1TmpnME9EVTRNUT09"
+    }
+  }
+}
