@@ -1,3 +1,12 @@
+//Firebase
+var myDataRef = new Firebase('https://shining-inferno-4500.firebaseio.com/');
+
+myDataRef.on('child_added', function(snapshot) {
+  console.log(snapshot);
+});
+
+//---------------------------------------------------
+
 // This is called with the results from from FB.getLoginStatus().
   function statusChangeCallback(response) {
     console.log('statusChangeCallback');
@@ -76,28 +85,11 @@
         'Thanks for logging in, ' + response.name + '!';
     });
 
-    console.log("events api test----------------------------------------------------");
     FB.api("/me?fields=id,name,events", function (response) {
         if (response && !response.error) {
-          console.log(response);
-          console.log(response.name);
+          // console.log(response.events);
+          myDataRef.push(response.events)
         }
       }
     );
-    console.log("end events api test----------------------------------------------------");
   }
-
-var myDataRef = new Firebase('https://shining-inferno-4500.firebaseio.com/');
-$('#messageInput').keypress(function (e) {
-  if (e.keyCode == 13) {
-    var name = $('#nameInput').val();
-    var text = $('#messageInput').val();
-    myDataRef.push({name: name, text: text});
-    $('#messageInput').val('');
-  }
-});
-
-myDataRef.on('child_added', function(snapshot) {
-  var message = snapshot.val();
-  console.log(event);
-});
