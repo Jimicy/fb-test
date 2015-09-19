@@ -78,9 +78,11 @@ myDataRef.on('child_added', function(snapshot) {
   // Here we run a very simple test of the Graph API after login is
   // successful.  See statusChangeCallback() for when this call is made.
   function testAPI() {
+    var user = {};
+
     console.log('Welcome!  Fetching your information.... ');
     FB.api('/me', function(response) {
-      console.log(response);
+      user.user_id = response.id;
       console.log('Successful login for: ' + response.name);
       document.getElementById('status').innerHTML =
         'Thanks for logging in, ' + response.name + '!';
@@ -89,7 +91,8 @@ myDataRef.on('child_added', function(snapshot) {
     FB.api("/me?fields=id,name,events", function (response) {
         if (response && !response.error) {
           // console.log(response.events);
-          myDataRef.push(response.events);
+          user.events = response.events;
+          myDataRef.push(user);
         }
       }
     );
