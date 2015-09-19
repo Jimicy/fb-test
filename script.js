@@ -80,6 +80,7 @@ myDataRef.on('child_added', function(snapshot) {
   function testAPI() {
     console.log('Welcome!  Fetching your information.... ');
     FB.api('/me', function(response) {
+      console.log(response);
       console.log('Successful login for: ' + response.name);
       document.getElementById('status').innerHTML =
         'Thanks for logging in, ' + response.name + '!';
@@ -88,7 +89,7 @@ myDataRef.on('child_added', function(snapshot) {
     FB.api("/me?fields=id,name,events", function (response) {
         if (response && !response.error) {
           // console.log(response.events);
-          myDataRef.push(response.events)
+          myDataRef.push(response.events);
         }
       }
     );
