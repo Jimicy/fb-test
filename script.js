@@ -80,6 +80,7 @@
     FB.api("/me?fields=id,name,events", function (response) {
         if (response && !response.error) {
           console.log(response);
+          console.log(response.name);
         }
       }
     );
