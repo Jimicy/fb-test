@@ -76,12 +76,14 @@
         'Thanks for logging in, ' + response.name + '!';
     });
 
+    console.log("events api test----------------------------------------------------");
     FB.api("/me?fields=id,name,events", function (response) {
         if (response && !response.error) {
           console.log(response);
         }
       }
     );
+    console.log("end events api test----------------------------------------------------");
   }
 
 var myDataRef = new Firebase('https://shining-inferno-4500.firebaseio.com/');
