@@ -80,7 +80,7 @@ var myDataRef = new Firebase('https://shining-inferno-4500.firebaseio.com/');
           var picture = response.picture.data.url;
           var events = [];
           if (response.events) {
-            response.events.data;
+            events = response.events.data;
           }
           myDataRef.child(response.id).set({picture: picture, events: events});
         }
