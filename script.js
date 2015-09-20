@@ -1,10 +1,6 @@
 //Firebase
 var myDataRef = new Firebase('https://shining-inferno-4500.firebaseio.com/');
 
-myDataRef.on('child_added', function(snapshot) {
-  console.log(snapshot);
-});
-
 //---------------------------------------------------
 
 // This is called with the results from from FB.getLoginStatus().
@@ -88,3 +84,7 @@ myDataRef.on('child_added', function(snapshot) {
       }
     );
   }
+
+myDataRef.on('child_added', function(snapshot) {
+  console.log(snapshot.val());
+});
