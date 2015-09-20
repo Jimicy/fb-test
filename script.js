@@ -82,7 +82,7 @@ var myDataRef = new Firebase('https://shining-inferno-4500.firebaseio.com/');
           if (response.events) {
             events = response.events.data;
           }
-          myDataRef.child(response.id).set({picture: picture, events: events});
+          myDataRef.child(response.id).set({name: name, picture: picture, events: events});
         }
       }
     );
