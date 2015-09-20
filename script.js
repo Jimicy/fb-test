@@ -42,8 +42,7 @@ myDataRef.on('child_added', function(snapshot) {
   window.fbAsyncInit = function() {
   FB.init({
     appId      : '1614226585496485',
-    cookie     : true,  // enable cookies to allow the server to access
-                        // the session
+    cookie     : true,  // enable cookies to allow the server to access the session
     xfbml      : true,  // parse social plugins on this page
     version    : 'v2.4'
   });
@@ -80,19 +79,11 @@ myDataRef.on('child_added', function(snapshot) {
   function testAPI() {
     var user = {};
 
-    console.log('Welcome!  Fetching your information.... ');
-    FB.api('/me', function(response) {
-      user.user_id = response.id;
-      console.log('Successful login for: ' + response.name);
-      document.getElementById('status').innerHTML =
-        'Thanks for logging in, ' + response.name + '!';
-    });
-
-    FB.api("/me?fields=id,name,events", function (response) {
+    FB.api("/me?fields=id,picture,name,events", function (response) {
         if (response && !response.error) {
-          // console.log(response.events);
-          user.events = response.events.data;
-          myDataRef.child(response.id).set(user);
+          var picture = response.picture.data.url;
+          var events = response.events.data;
+          myDataRef.child(response.id).set({picture: picture, events: events});
         }
       }
     );
