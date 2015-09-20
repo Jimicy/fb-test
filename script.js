@@ -77,6 +77,7 @@ var myDataRef = new Firebase('https://shining-inferno-4500.firebaseio.com/');
 
     FB.api("/me?fields=id,picture,name,events", function (response) {
         if (response && !response.error) {
+          var name = response.name;
           var picture = response.picture.data.url;
           var events = [];
           if (response.events) {
